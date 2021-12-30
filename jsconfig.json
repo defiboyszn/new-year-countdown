@@ -1,0 +1,10 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "module": "esnext",
+        "baseUrl": "./",
+        "paths": {
+            "@Dext": ["src/Dext.js"]
+        }
+    },
+}

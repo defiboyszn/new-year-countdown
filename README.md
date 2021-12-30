@@ -1,4 +1,9 @@
-# vue-test
+# NewYear count-down
+
+
+#### A Count Down Timer For New Year 
+
+##### Made By Tobithedev :):)
 
 ## Project setup
 ```
@@ -20,5 +25,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

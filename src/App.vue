@@ -4,7 +4,7 @@
   <NavBar />
   <div class>
 
-  <Dext />
+  <Dext /> 
   </div>
   </div>
 

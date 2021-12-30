@@ -9,7 +9,7 @@ const routes = [
     component: Home,
     meta: {
       title: 'Home'
-    }
+    } 
   },
   {
     path: '/about',

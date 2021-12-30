@@ -10,7 +10,7 @@
         from-red-400
         to-yellow-500
       "
-    >
+    > 
       New Year CountDown
     </h1>
     <Counter

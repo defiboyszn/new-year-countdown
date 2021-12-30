@@ -11,7 +11,7 @@ const $visibility_change = "visibilitychange";
 export default defineComponent({
     name: "CountDown",
     props: {
-        autoStart: {
+        autoStart: { 
             type: Boolean,
             default: true,
         },
